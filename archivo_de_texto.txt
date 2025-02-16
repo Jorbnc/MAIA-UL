@@ -5,6 +5,6 @@ texto 3
 texto X
 texto Y
 
-function foo()
+function myfun()
   return 0
 end
