@@ -4,3 +4,7 @@ texto 3
 
 texto X
 texto Y
+
+function foo()
+  return 0
+end
